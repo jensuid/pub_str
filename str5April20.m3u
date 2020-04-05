@@ -71,7 +71,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8C75884AEC347CCF2698FA0D6597E19F865962E4&profile=pass
 #EXTINF:0 tvg-logo="axn"  group-title="PREMIUM",AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=79046258DC0E930E01197AF56D3D1298958EEE07&profile=pass
-#EXTINF:0 tvg-logo=""  group-title="PREMIUM",Bloomberg International
+#EXTINF:0 tvg-logo=""  group-title="PREMIUM",HBO Hits
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=C40949788D0E2EF033DFEB68D1304EF571EFEF56&profile=pass
 #EXTINF:0 tvg-logo="bbc world news"  group-title="PREMIUM",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=3BC2042011CC9E27D38AF0DD54FB94B6A8DF5FEC&profile=pass
