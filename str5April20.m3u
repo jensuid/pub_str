@@ -44,64 +44,88 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1,MALEO
 http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
-http://122.38.74.172:9981/stream/channelid/453759449?
 
+#EXTINF:0 tvg-logo="cartoon network"  group-title="KIDS",Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
+#EXTINF:0 tvg-logo="https://i.postimg.cc/VLzDV4gx/CARTOON_NETWORK.png"  group-title="KIDS",Cartoon Network 2
+http://188.35.9.11:21151/udp/185f
+#EXTINF:0 tvg-logo="disney channel"  group-title="KIDS",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=2E48030DF49735395AFB9F80DD6626207B1579D5&profile=pass
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Dz3Wxpds/disney-junior.png"  group-title="KIDS",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/zGdXPDCW/Ducktv-logo.png"  group-title="KIDS",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/ZK4bbvjp/ebs-kids.png"  group-title="KIDS",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/kGqFLXQQ/miao-mi-logo-color.png"  group-title="KIDS",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/CMvP1Ws7/MY-KIDS.png"  group-title="KIDS",My Kids
+http://45.126.83.51:80/session/ed35b066-8776-11e9-8be0-b73f998c1fa0/x6bnqe/s/s113/index.m3u8
+#EXTINF:0 tvg-logo=""  group-title="KIDS",Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass
+#EXTINF:0 tvg-logo="animal planet"  group-title="PREMIUM",Animal Planet
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=9C3D6D1D9C2C7E17C88C34437A464C67A060160E&profile=pass
+#EXTINF:0 tvg-logo="https://i.postimg.cc/fRjZ6zY5/ARIRANG.png"  group-title="PREMIUM",ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-logo=""  group-title="PREMIUM",Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8C75884AEC347CCF2698FA0D6597E19F865962E4&profile=pass
+#EXTINF:0 tvg-logo="axn"  group-title="PREMIUM",AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=79046258DC0E930E01197AF56D3D1298958EEE07&profile=pass
+#EXTINF:0 tvg-logo=""  group-title="PREMIUM",Bloomberg International
+http://203.153.218.28:9981/stream/channelid/78064174?ticket=C40949788D0E2EF033DFEB68D1304EF571EFEF56&profile=pass
+#EXTINF:0 tvg-logo="bbc world news"  group-title="PREMIUM",BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=3BC2042011CC9E27D38AF0DD54FB94B6A8DF5FEC&profile=pass
+#EXTINF:0 tvg-logo=""  group-title="PREMIUM",Blue Ant Extreme
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=D8E336A68F41FF0719427512D203E63B86CBE811&profile=pass
+#EXTINF:0 tvg-logo="cinemax"  group-title="PREMIUM",CINEMAX
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
+#EXTINF:0 tvg-logo="cnn international"  group-title="PREMIUM",CNN International
+http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F261879F637E4B795AB373D238F&profile=pass
+#EXTINF:0 tvg-logo="discovery channel"  group-title="PREMIUM",Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=2B28441BA5F75B65F81562F9A8DB635E8DE08CF5&profile=pass
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3NVbwcDn/fashion-tv.png"  group-title="PREMIUM",Fashion TV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3NVbwcDn/fashion-tv.png"  group-title="PREMIUM",Fashion TV MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/MGnsZDTP/J-GOTV.png"  group-title="PREMIUM",First Movie
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/hPCVVdyR/FOODIE.png"  group-title="PREMIUM",Foodie Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/KvKtrYdK/Fox-Logo.png"  group-title="PREMIUM",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
+#EXTINF:0 tvg-logo=""  group-title="PREMIUM",FOX 2
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9527FC229C33A71FBAF7DEF7D4ADD74FA1D1F1D5&profile=pass
+#EXTINF:0 tvg-logo=""  group-title="PREMIUM",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
+#EXTINF:0 tvg-logo="https://i.postimg.cc/pTpKGXp1/FOX-MOVIES.png"  group-title="PREMIUM",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+#EXTINF:0 tvg-logo=""  group-title="PREMIUM",Fox Movies 2
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
+#EXTINF:0 tvg-logo="national geographic"  group-title="PREMIUM",National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=12D8BBF8329984DE39E83565970688314BBDFDE2&profile=pass
+#EXTINF:0 tvg-logo="nat geo people"  group-title="PREMIUM",NAT GEO People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=93B3188F4C61F26C880290A5E7E8072BDAB2EFF2&profile=pass
+#EXTINF:0 tvg-logo="nat geo wild"  group-title="PREMIUM",NAT GEO Wild
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=2D019AA4C50D06BCA25385A8B8008DD56B192AEE&profile=pass
+#EXTINF:0 tvg-logo="https://i.postimg.cc/GhbZHZNS/HBO-HD.png"  group-title="PREMIUM",HBO
+http://95.170.215.118/hls/m3u8/HBO.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/vBJX563v/hbo-HD.png"  group-title="PREMIUM",HBO HD
+http://203.207.56.228/live/iptv005.m3u8
+#EXTINF:0 tvg-logo=""  group-title="PREMIUM",HBO HD 2
+http://203.153.218.28:9981/stream/channelid/37129950?ticket=DBCF024D9A3E4F58C90E2EBA7BB30FB700306650&profile=pass
+#EXTINF:0 tvg-logo="https://i.postimg.cc/NG63GgNH/HBO-FAMILY.png"  group-title="PREMIUM",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
+#EXTINF:0 tvg-logo=""  group-title="PREMIUM",HBO Family 2
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
+#EXTINF:0 tvg-logo="https://i.postimg.cc/mksK3qrk/HBO-HITS.png"  group-title="PREMIUM",HBO HITS
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
+#EXTINF:0 tvg-logo=""  group-title="PREMIUM",HBO HITS 2
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
+#EXTINF:0 tvg-logo="https://i.postimg.cc/cHYVnZ0P/HBO-SIGNATURE.png"  group-title="PREMIUM",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
+#EXTINF:0 tvg-logo=""  group-title="PREMIUM",HBO Signature 2
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=E20CE4FFE9600A12851300CCFE97AAD81D0B030D&profile=pass
+#EXTINF:0 tvg-logo="history"  group-title="PREMIUM",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=A6B5FCF4BEA85CDC157E4CF8DAE0FE22C9FA8432&profile=pas
 
-ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass,Cartoon Network,KIDS
-http://188.35.9.11:21151/udp/185f,Cartoon Network 2,KIDS
-http://203.153.218.28:9981/stream/channelid/31701170?
-ticket=2E48030DF49735395AFB9F80DD6626207B1579D5&profile=pass,Disney Channel,KIDS
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8,DISNEY JUNIOR,KIDS
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8,Duck TV,KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8,EBS Kids,KIDS
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8,MIAO MI,KIDS
-http://45.126.83.51:80/session/ed35b066-8776-11e9-8be0-b73f998c1fa0/x6bnqe/s/s113/index.m3u8,My Kids,KIDS
-http://203.153.218.28:9981/stream/channelid/648970596?
-ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass,Nickelodeon Asia,KIDS
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8,Spacetoon,KIDS
-http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8,SPACETOON,KIDS
-
-
-ticket=9C3D6D1D9C2C7E17C88C34437A464C67A060160E&profile=pass,Animal Planet,PREMIUM
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8,ARIRANG,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8C75884AEC347CCF2698FA0D6597E19F865962E4&profile=pass,Asian Food Channel,PREMIUM
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=79046258DC0E930E01197AF56D3D1298958EEE07&profile=pass,AXN,PREMIUM
-http://hvod.imirun.net:8080/AXN-HD/index.m3u8,AXN 2,PREMIUM
-http://203.153.218.28:9981/stream/channelid/78064174?ticket=C40949788D0E2EF033DFEB68D1304EF571EFEF56&profile=pass,Bloomberg International,PREMIUM
-http://203.153.218.28:9981/stream/channelid/861591723?ticket=3BC2042011CC9E27D38AF0DD54FB94B6A8DF5FEC&profile=pass,BBC World News,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=D8E336A68F41FF0719427512D203E63B86CBE811&profile=pass,Blue Ant Extreme,PREMIUM
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass,CINEMAX,PREMIUM
-http://210.210.155.35:80/session/04357d66-73b6-11e9-a26c-8746b55a6579/uq2663/h/h04/01.m3u8,CINEMA WORLD,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F261879F637E4B795AB373D238F&profile=pass,CNN International,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=2B28441BA5F75B65F81562F9A8DB635E8DE08CF5&profile=pass,Discovery Channel,PREMIUM
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8,DIL SE,PREMIUM
-http://122.38.74.172:9981/stream/channelid/402678709?ticket=AE885FAFBF450E2E4C7545F751850266F0B47879&profile=pass,D ONE,PREMIUM
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8,Fashion TV,PREMIUM
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8,Fashion TV MIDNIGHT,PREMIUM
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8,First Movie,PREMIUM
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8,Foodie Channel,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass,FOX,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9527FC229C33A71FBAF7DEF7D4ADD74FA1D1F1D5&profile=pass,FOX2,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass,FOX Family Movies,PREMIUM
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass,Fox Movies,PREMIUM
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass,Fox Movies 2,PREMIUM
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=12D8BBF8329984DE39E83565970688314BBDFDE2&profile=pass,National Geographic,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=93B3188F4C61F26C880290A5E7E8072BDAB2EFF2&profile=pass,NAT GEO People,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=2D019AA4C50D06BCA25385A8B8008DD56B192AEE&profile=pass,NAT GEO Wild,PREMIUM
-http://95.170.215.118/hls/m3u8/HBO.m3u8,HBO,PREMIUM
-http://203.207.56.228/live/iptv005.m3u8,HBO HD,PREMIUM
-http://203.153.218.28:9981/stream/channelid/37129950?ticket=DBCF024D9A3E4F58C90E2EBA7BB30FB700306650&profile=pass,HBO HD 2,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass,HBO Family,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass,HBO Family 2,PREMIUM
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass,HBO HITS,PREMIUM
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass,HBO HITS 2,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1197019186?
-
-ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass,HBO Signature,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1197019186?
-
-ticket=E20CE4FFE9600A12851300CCFE97AAD81D0B030D&profile=pass,HBO Signature 2,PREMIUM
-http://203.153.218.28:9981/stream/channelid/1868154562?
-
-ticket=A6B5FCF4BEA85CDC157E4CF8DAE0FE22C9FA8432&profile=pas,History Channel,PREMIUM
 
