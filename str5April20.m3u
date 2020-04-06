@@ -75,7 +75,7 @@ http://203.153.218.28:9981/stream/channelid/882386103?ticket=79046258DC0E930E011
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=C40949788D0E2EF033DFEB68D1304EF571EFEF56&profile=pass
 #EXTINF:0 tvg-logo="bbc world news"  group-title="PREMIUM",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=3BC2042011CC9E27D38AF0DD54FB94B6A8DF5FEC&profile=pass
-#EXTINF:0 tvg-logo=""  group-title="PREMIUM",HBO
+#EXTINF:0 tvg-logo="https://i.postimg.cc/GhbZHZNS/HBO-HD.png"  group-title="PREMIUM",HBO
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=D8E336A68F41FF0719427512D203E63B86CBE811&profile=pass
 #EXTINF:0 tvg-logo="cinemax"  group-title="PREMIUM",CINEMAX
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
@@ -87,10 +87,6 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=2B28441BA5F75B65F8
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3NVbwcDn/fashion-tv.png"  group-title="PREMIUM",Fashion TV MIDNIGHT
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/MGnsZDTP/J-GOTV.png"  group-title="PREMIUM",First Movie
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/hPCVVdyR/FOODIE.png"  group-title="PREMIUM",Foodie Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/KvKtrYdK/Fox-Logo.png"  group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
 #EXTINF:0 tvg-logo=""  group-title="PREMIUM",FOX 2
@@ -107,12 +103,6 @@ http://203.153.218.28:9981/stream/channelid/681683355?ticket=12D8BBF8329984DE39E
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=93B3188F4C61F26C880290A5E7E8072BDAB2EFF2&profile=pass
 #EXTINF:0 tvg-logo="nat geo wild"  group-title="PREMIUM",NAT GEO Wild
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=2D019AA4C50D06BCA25385A8B8008DD56B192AEE&profile=pass
-#EXTINF:0 tvg-logo="https://i.postimg.cc/GhbZHZNS/HBO-HD.png"  group-title="PREMIUM",HBO
-http://95.170.215.118/hls/m3u8/HBO.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/vBJX563v/hbo-HD.png"  group-title="PREMIUM",HBO HD
-http://203.207.56.228/live/iptv005.m3u8
-#EXTINF:0 tvg-logo=""  group-title="PREMIUM",HBO HD 2
-http://203.153.218.28:9981/stream/channelid/37129950?ticket=DBCF024D9A3E4F58C90E2EBA7BB30FB700306650&profile=pass
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NG63GgNH/HBO-FAMILY.png"  group-title="PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 #EXTINF:0 tvg-logo=""  group-title="PREMIUM",HBO Family 2
