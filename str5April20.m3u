@@ -88,9 +88,9 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B63
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
 #EXTINF:0 tvg-logo="https://i.postimg.cc/mksK3qrk/HBO-HITS.png"  group-title="Movie",HBO Hits
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=C40949788D0E2EF033DFEB68D1304EF571EFEF56&profile=pass
-#EXTINF:0 tvg-logo="https://i.postimg.cc/mksK3qrk/HBO-HITS.png"  group-title="Movie",HBO HITS
+#EXTINF:0 tvg-logo="https://i.postimg.cc/mksK3qrk/HBO-HITS.png"  group-title="Movie",HBO Hits #2
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
-#EXTINF:0 tvg-logo="https://i.postimg.cc/mksK3qrk/HBO-HITS.png"  group-title="Movie",HBO HITS 2
+#EXTINF:0 tvg-logo="https://i.postimg.cc/mksK3qrk/HBO-HITS.png"  group-title="Movie",HBO Hits #3
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
 #EXTINF:0 tvg-logo="https://i.postimg.cc/cHYVnZ0P/HBO-SIGNATURE.png"  group-title="Movie",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
