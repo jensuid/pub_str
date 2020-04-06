@@ -1,49 +1,29 @@
-#EXTINF:-1,rcti
+#EXTINF:-1,RCTI
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1,MNCTV
-http://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #EXTINF:-1,GLOBAL
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1,GLOBALTV
-http://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:-1,RCTI
-http://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1,TRANS7 HD
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
 #EXTINF:-1,TRANSTV HD
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
 #EXTINF:-1,INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1,INDOSIAR SD
-http://45.126.83.51/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1,ANTV HD
-http://210.210.155.35/session/9d97b132-a94d-11e9-b311-c81f66f89318/qwr9ew/s/s102/02.m3u8
-#EXTINF:-1,ANTV
-http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1,NET TV
-http://id2.indostreamingtv.com/live/nettv/index.m3u8
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1,SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1,TVONE
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
-#EXTINF:-1,INEWS
-http://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1,TV ONE 
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-#EXTINF:-1,RTV 
-http://45.126.83.51/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1,TVRI Sports 
-http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
 #EXTINF:-1,KOMPAS TV 
-http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com/oblack
-#EXTINF:-1,TVONE HD
-https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybHvyaPzWO5SK_lt5XnM-d2U)/dm/3/x619221/s/live-3.m3u8
+hhttps://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
+#EXTINF:-1,Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1,BERITA SATU HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
 #EXTINF:-1,cnn indo 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1,MALEO
-http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 
 #EXTINF:0 tvg-logo="cartoon network"  group-title="KIDS",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
