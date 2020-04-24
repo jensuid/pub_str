@@ -27,8 +27,19 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.
 #EXTINF:-1,CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Solusi channel ada suara no video
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Merubah Tampilan Menu TV Box
+https://drive.google.com/uc?id=1ORCF9R7uXvXxA8hxTBIpt8hzmq64tsO6
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",TV Streaming via Perfect Player
+https://drive.google.com/uc?id=1OZcvjOc8YMY2widiLGcbRIBn88YUNAy-
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",TV Streaming via Vidio
+https://drive.google.com/uc?id=1O-9eOFwwUB8FI7PrmWpSfS8Hy5wSqW73
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Solusi Ada suara no video
 https://drive.google.com/uc?id=1Opyn8L3Aqp4yCdlgk9e3zu3yMM07ly1y
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Solusi app Vidio tidak fullscreen
+https://drive.google.com/uc?id=1OjaP4ZMnHuhUyt1P9dBjn3Ybiu6Y2_eI
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Film via app Cyberflix
+https://drive.google.com/uc?id=1O0HaQi9Vj2dvRALGX3v_pii1NAfifM2s
+
 
 #EXTINF:-1 tvg-logo="cartoon network"  group-title="KIDS",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
