@@ -1,3 +1,5 @@
+#EXTINF:-1,Solusi channel ada suara no video
+https://drive.google.com/uc?id=1Opyn8L3Aqp4yCdlgk9e3zu3yMM07ly1y
 #EXTINF:-1,RCTI
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1,MNCTV
@@ -24,6 +26,9 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
 #EXTINF:-1,CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Solusi channel ada suara no video
+https://drive.google.com/uc?id=1Opyn8L3Aqp4yCdlgk9e3zu3yMM07ly1y
 
 #EXTINF:-1 tvg-logo="cartoon network"  group-title="KIDS",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
