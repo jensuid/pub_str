@@ -1,11 +1,5 @@
 #EXTINF:-1,Solusi Channel TV Ada Suara Tidak Ada Gambar
 https://rebrand.ly/fixPPNoVideo
-#EXTINF:-1,RCTI
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
-#EXTINF:-1,MNCTV
-http://id6.indostreamingtv.com/live/mnctv/index.m3u8
-#EXTINF:-1,GLOBAL
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:-1,TRANS7 HD
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
 #EXTINF:-1,TRANSTV HD
@@ -26,6 +20,12 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
 #EXTINF:-1,CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,RCTI
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1,MNCTV
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1,GLOBAL
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Merubah Tampilan Menu TV Box
 https://drive.google.com/uc?id=1ORCF9R7uXvXxA8hxTBIpt8hzmq64tsO6
