@@ -21,7 +21,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.
 #EXTINF:-1,CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1,RCTI
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1,MNCTV
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #EXTINF:-1,GLOBAL
