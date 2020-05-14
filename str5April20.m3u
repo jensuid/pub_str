@@ -5,7 +5,7 @@ http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_slen
 #EXTINF:-1,TRANSTV HD
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
 #EXTINF:-1,INDOSIAR
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+https://dl.dropbox.com/s/puigzo029f0qscp/indosiar.m3u8?dl=0
 #EXTINF:-1,NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1,SCTV
