@@ -23,9 +23,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1,RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1,MNCTV
-https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
+https://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 #EXTINF:-1,GLOBAL
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
+https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 
 #EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Merubah Tampilan Menu TV Box
 https://drive.google.com/uc?id=1ORCF9R7uXvXxA8hxTBIpt8hzmq64tsO6
