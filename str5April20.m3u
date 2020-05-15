@@ -6,14 +6,14 @@ http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_slen
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
 #EXTINF:-1,INDOSIAR
 https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
-#EXTINF:-1,NET TV
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
+#EXTINF:-1,NET TV 
+https://dl.dropbox.com/s/b1czwxfwgaopeqz/net.m3u8?dl=0
 #EXTINF:-1,SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1,TVONE
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
 #EXTINF:-1,KOMPAS TV 
-https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
 #EXTINF:-1,Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1,BERITA SATU HD
@@ -23,9 +23,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1,RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1,MNCTV
-http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
 #EXTINF:-1,GLOBAL
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
+https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
 
 #EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Merubah Tampilan Menu TV Box
 https://drive.google.com/uc?id=1ORCF9R7uXvXxA8hxTBIpt8hzmq64tsO6
