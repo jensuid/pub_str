@@ -10,8 +10,6 @@ https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_10
 https://dl.dropbox.com/s/b1czwxfwgaopeqz/net.m3u8?dl=0
 #EXTINF:-1,SCTV
 https://dl.dropbox.com/s/9fqsjx833gxbyyu/sctv.m3u8?dl=0
-#EXTINF:-1,SCTV #2
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1,TVONE
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
 #EXTINF:-1,KOMPAS TV 
@@ -47,6 +45,10 @@ https://
 https://rebrand.ly/installDFWork
 #EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Film via app Cyberflix
 https://drive.google.com/uc?id=1O0HaQi9Vj2dvRALGX3v_pii1NAfifM2s
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Nonton film di Popcorn
+https://bit.ly/nontonPopcorn
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Setting Popcorn Storage
+https://bit.ly/settingPopcorn
 
 #EXTINF:-1 tvg-logo="cartoon network"  group-title="KIDS",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
