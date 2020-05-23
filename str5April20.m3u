@@ -10,9 +10,9 @@ https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_10
 https://dl.dropbox.com/s/b1czwxfwgaopeqz/net.m3u8?dl=0
 #EXTINF:-1,SCTV
 https://dl.dropbox.com/s/9fqsjx833gxbyyu/sctv.m3u8?dl=0
-#EXTINF:-1,TVONE
+#EXTINF:0,TVONE
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
-#EXTINF:-1,KOMPAS TV 
+#EXTINF:0,KOMPAS TV 
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
 #EXTINF:-1,Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
@@ -34,7 +34,6 @@ https://drive.google.com/uc?id=1OZcvjOc8YMY2widiLGcbRIBn88YUNAy-
 #EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",TV Streaming via Vidio
 https://drive.google.com/uc?id=1O-9eOFwwUB8FI7PrmWpSfS8Hy5wSqW73
 #EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Solusi Channel TV Ada Suara Tidak Ada Gambar
-https://drive.google.com/uc?id=1Opyn8L3Aqp4yCdlgk9e3zu3yMM07ly1y
 https://rebrand.ly/fixPPNoVideo
 #EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Solusi app Vidio tidak fullscreen
 https://drive.google.com/uc?id=1OjaP4ZMnHuhUyt1P9dBjn3Ybiu6Y2_eI
