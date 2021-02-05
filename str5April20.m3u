@@ -37,6 +37,32 @@ http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.
 http://raostvip.com:8080/semi16/1609.sem/114942?checkedby:iptvcat.com
 // end tambahan
 
+//panduan tv box
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Merubah Tampilan Menu TV Box
+https://drive.google.com/uc?id=1ORCF9R7uXvXxA8hxTBIpt8hzmq64tsO6
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",TV Streaming via Perfect Player
+https://drive.google.com/uc?id=1OZcvjOc8YMY2widiLGcbRIBn88YUNAy-
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",TV Streaming via Vidio
+https://drive.google.com/uc?id=1O-9eOFwwUB8FI7PrmWpSfS8Hy5wSqW73
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Solusi Channel TV Ada Suara Tidak Ada Gambar
+https://rebrand.ly/fixPPNoVideo
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",--- Playstore ---
+https://
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Playstore Sign-in dan off autoupdate 
+https://rebrand.ly/ps_signin_noupdate
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Hapus id Playstore
+https://rebrand.ly/ps_id_remove
+
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",--- Movie Streaming ---
+https://
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Install Aplikasi Duta Film
+https://rebrand.ly/installDFWork
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Nonton film di Popcorn
+https://bit.ly/nontonPopcorn
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Setting Popcorn Storage
+https://bit.ly/settingPopcorn
+//end panduan
+
 // LOCAL 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.227551bc14307062cafe516364c97553.SHINTA" tvg-name" Indosiar _VIDIO" group-title="LOCAL",Indosiar _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
