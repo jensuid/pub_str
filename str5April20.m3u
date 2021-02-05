@@ -1,10 +1,45 @@
 #EXTM3U
 
 
-//VIDIO PREMIUM by @RiyanCoday
+//tambahan by jensu
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport Free",BEIN SPORT 1 HD
+http://185.71.64.167:80/307245103371/307245103371/78393?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport Free",BEIN SPORT 2 HD
+http://185.71.64.167:80/307245103371/307245103371/78392?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport Free",BEIN SPORT 3
+http://185.71.64.167:80/307245103371/307245103371/79042?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport Free",BEIN SPORT 4K
+http://raostvip.com:8080/semi16/1609.sem/102758?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport Free",BeiN Sport 4
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33976.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport Free",BeiN Sport 5
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33978.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport Free",BeiN Sport 6
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33980.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport Free",BeiN Sport 8
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33984.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport Free",BeiN Sport 9
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33986.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Movie Free",CAN-HBO 2 (720)(M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3693?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Movie Free",CAN-HBO 1 (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3692?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Movie Free",HBO 2 HD
+http://raostvip.com:8080/semi16/1609.sem/111159?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Movie Free",HBO 2 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/122954?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Movie Free",HBO Signature HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122957?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movie Free",HBO FAMILY
+http://stream.streamhubtv.xyz:8080/live/Trey/Trey/22540.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Movie Free",Cartoon Network
+http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Movie Free",LaLiga 2 TV HD
+http://raostvip.com:8080/semi16/1609.sem/114942?checkedby:iptvcat.com
+// end tambahan
 
 // LOCAL 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.227551bc14307062cafe516364c97553.SHINTA" tvg-name" Indosiar _VIDIO" group-title="LOCAL",_ Indosiar _VIDIO
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.227551bc14307062cafe516364c97553.SHINTA" tvg-name" Indosiar _VIDIO" group-title="LOCAL",Indosiar _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/4GJ-iEb0yjB6PlyNKbzIuX6Z2yw=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/f05e3e.jpg" tvg-id="RIYAN.35a6bd03dd5a3179dcd3538c8bb2cd66.SHINTA" tvg-name" MNC _VIDIO" group-title="LOCAL", MNC _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
