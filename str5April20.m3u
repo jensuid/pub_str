@@ -1,67 +1,5 @@
 #EXTM3U
 
-//tambahan by jensu
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="SPORTS",BEIN SPORT 1 HD
-http://185.71.64.167:80/307245103371/307245103371/78393?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="SPORTS",BEIN SPORT 2 HD
-http://185.71.64.167:80/307245103371/307245103371/78392?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="SPORTS",BEIN SPORT 3
-http://185.71.64.167:80/307245103371/307245103371/79042?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="SPORTS",BEIN SPORT 4K
-http://raostvip.com:8080/semi16/1609.sem/102758?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORTS",BeiN Sport 4
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33976.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORTS",BeiN Sport 5
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33978.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORTS",BeiN Sport 6
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33980.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORTS",BeiN Sport 8
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33984.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORTS",BeiN Sport 9
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33986.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="MOVIES",CAN-HBO 2 (720)(M)
-http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3693?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="MOVIES",CAN-HBO 1 (M)
-http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3692?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="MOVIES",HBO 2 HD
-http://raostvip.com:8080/semi16/1609.sem/111159?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="MOVIES",HBO 2 FHD
-http://tvog.eu:8080/ibrahim/08.03.2020/122954?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="MOVIES",HBO Signature HD
-http://tvog.eu:8080/ibrahim/08.03.2020/122957?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="MOVIES",HBO FAMILY
-http://stream.streamhubtv.xyz:8080/live/Trey/Trey/22540.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="MOVIES",Cartoon Network
-http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="MOVIES",LaLiga 2 TV HD
-http://raostvip.com:8080/semi16/1609.sem/114942?checkedby:iptvcat.com
-// end tambahan
-
-//panduan tv box
-#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Merubah Tampilan Menu TV Box
-https://drive.google.com/uc?id=1ORCF9R7uXvXxA8hxTBIpt8hzmq64tsO6
-#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",TV Streaming via Perfect Player
-https://drive.google.com/uc?id=1OZcvjOc8YMY2widiLGcbRIBn88YUNAy-
-#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",TV Streaming via Vidio
-https://drive.google.com/uc?id=1O-9eOFwwUB8FI7PrmWpSfS8Hy5wSqW73
-#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Solusi Channel TV Ada Suara Tidak Ada Gambar
-https://rebrand.ly/fixPPNoVideo
-#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",--- Playstore ---
-https://
-#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Playstore Sign-in dan off autoupdate 
-https://rebrand.ly/ps_signin_noupdate
-#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Hapus id Playstore
-https://rebrand.ly/ps_id_remove
-
-#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",--- Movie Streaming ---
-https://
-#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Install Aplikasi Duta Film
-https://rebrand.ly/installDFWork
-#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Nonton film di Popcorn
-https://bit.ly/nontonPopcorn
-#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Setting Popcorn Storage
-https://bit.ly/settingPopcorn
-//end panduan
 
 // LOCAL 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.227551bc14307062cafe516364c97553.SHINTA" tvg-name" Indosiar _VIDIO" group-title="LOCAL",Indosiar _VIDIO
@@ -112,6 +50,32 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/yD_Ig6mNztgtUqxRSLjmEwnsJlQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" tvg-id="RIYAN.7647a58aa8ee496e92b33edb2078ee48.SHINTA" tvg-name" Nusantara TV _VIDIO" group-title="LOCAL", Nusantara TV _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44102a6ed6587b5b8cb4ebbe972864690b
 
+//panduan tv box
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Merubah Tampilan Menu TV Box
+https://drive.google.com/uc?id=1ORCF9R7uXvXxA8hxTBIpt8hzmq64tsO6
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",TV Streaming via Perfect Player
+https://drive.google.com/uc?id=1OZcvjOc8YMY2widiLGcbRIBn88YUNAy-
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",TV Streaming via Vidio
+https://drive.google.com/uc?id=1O-9eOFwwUB8FI7PrmWpSfS8Hy5wSqW73
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Solusi Channel TV Ada Suara Tidak Ada Gambar
+https://rebrand.ly/fixPPNoVideo
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",--- Playstore ---
+https://
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Playstore Sign-in dan off autoupdate 
+https://rebrand.ly/ps_signin_noupdate
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Hapus id Playstore
+https://rebrand.ly/ps_id_remove
+
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",--- Movie Streaming ---
+https://
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Install Aplikasi Duta Film
+https://rebrand.ly/installDFWork
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Nonton film di Popcorn
+https://bit.ly/nontonPopcorn
+#EXTINF:-1 tvg-logo=""  group-title="Panduan TV Box",Setting Popcorn Storage
+https://bit.ly/settingPopcorn
+//end panduan
+
 // OLAHRAGA
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" tvg-id="RIYAN.d4b3f76d1307f5cf8744847edd5052af.SHINTA" tvg-name" Champions TV 1 _VIDIO" group-title="SPORTS", Champions TV 1 _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
@@ -119,6 +83,43 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" tvg-id="RIYAN.6c76c4c23ea301ead2b323cd78c0f2f8.SHINTA" tvg-name" Champions TV 3 _VIDIO" group-title="SPORTS", Champions TV 3 _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
+
+//tambahan by jensu
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="SPORTS",BEIN SPORT 1 HD
+http://185.71.64.167:80/307245103371/307245103371/78393?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="SPORTS",BEIN SPORT 2 HD
+http://185.71.64.167:80/307245103371/307245103371/78392?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="SPORTS",BEIN SPORT 3
+http://185.71.64.167:80/307245103371/307245103371/79042?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="SPORTS",BEIN SPORT 4K
+http://raostvip.com:8080/semi16/1609.sem/102758?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORTS",BeiN Sport 4
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33976.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORTS",BeiN Sport 5
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33978.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORTS",BeiN Sport 6
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33980.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORTS",BeiN Sport 8
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33984.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORTS",BeiN Sport 9
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/33986.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="MOVIES",CAN-HBO 2 (720)(M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3693?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="MOVIES",CAN-HBO 1 (M)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/3692?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="MOVIES",HBO 2 HD
+http://raostvip.com:8080/semi16/1609.sem/111159?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="MOVIES",HBO 2 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/122954?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="MOVIES",HBO Signature HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122957?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="MOVIES",HBO FAMILY
+http://stream.streamhubtv.xyz:8080/live/Trey/Trey/22540.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="MOVIES",Cartoon Network
+http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="MOVIES",LaLiga 2 TV HD
+http://raostvip.com:8080/semi16/1609.sem/114942?checkedby:iptvcat.com
+// end tambahan
 
 // HIBURAN
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/F9KWhy-IhIjbSH13o5OwPqhGKOM=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7352/vidio-entertainment-74982e.jpg" tvg-id="RIYAN.7ef1f5308c553919cc703998989f0d15.SHINTA" tvg-name" Vidio Entertainment _VIDIO" group-title="ENTERTAINMENT", Vidio Entertainment _VIDIO
