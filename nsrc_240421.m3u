@@ -14,6 +14,8 @@
  #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="FTA",CNN INDONESIA https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8 
  #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnbcindonesia.png" group-title="FTA",CNBC INDONESIA https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8 
  #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="FTA",METRO TV 
+
+ // ----check
  #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="FTA",TVONE #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="FTA",BERITA SATU https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8 
  #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bsworld.png" group-title="FTA",BERITA SATU WORLD https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jakartaglobenews.png" group-title="FTA",JAKARTA GLOBE NEWS https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8 
  #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/rri.png" group-title="FTA", RRI NET http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8 
