@@ -18,7 +18,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="Lokal",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
-#EXTINF:-1  tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="Lokal", CNN INDONESIA HD (detik.com)
+#EXTINF:-1  tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="Lokal", CNN INDONESIA HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1445470530_b384000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -27,7 +27,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1445470530_b384
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 
-#EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar - off" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="Lokal",INDOSIAR HD
+#EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="Lokal",INDOSIAR HD-off
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="Lokal",SCTV HD-off
@@ -181,7 +181,7 @@ https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazee
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/foxnews.png" group-title="News",FOX News
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.postimg.cc/bN8WKk18/CNBC-Indonesia.png" group-title="Lokal", CNBC Indonesia  (detik.com)
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.postimg.cc/bN8WKk18/CNBC-Indonesia.png" group-title="Lokal", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
