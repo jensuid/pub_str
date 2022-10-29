@@ -28,8 +28,7 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="Lokal",INDOSIAR HD
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
-
+http://tvn.x10.mx/1/master-11.m3u8?dl\u003d1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="Lokal",SCTV
 http://210.210.155.35/qwr9ew/s/s03/index.m3u8
 
