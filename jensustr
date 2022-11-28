@@ -320,30 +320,6 @@ https://liveaneviadev.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 ,Citra Bioskop 
-http://tvnasional.mobie.in/M3U8/bioskop.m3u8
-
-#EXTINF:-1 ,Citra Drama
-http://tvnasional.mobie.in/PREMIER_VIDIO/cdrama.m3u8
-
-
-#EXTINF:-1 ,Citra Dangdut
-http://tvnasional.mobie.in/PREMIER_VIDIO/citdangdut.m3u8
-
-#EXTINF:-1 ,Citra Entertainment
-http://tvnasional.mobie.in/PREMIER_VIDIO/citraenter.m3u8
-
-#EXTINF:-1 ,Champions 1
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
-
-#EXTINF:-1 ,Champions2 
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
-
-#EXTINF:-1 ,Champions3 
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
-
-#EXTINF:-1 ,LiperPool
-http://tvnasional.mobie.in/PREMIER_VIDIO/liperpool.m3u8
 
 #EXTINF:-1 ,Hip Hip Horee
 http://tvnasional.mobie.in/PREMIER_VIDIO/hiphiphoree.m3u8
@@ -546,12 +522,12 @@ https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_p
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/nhkworld.png" group-title="Entertainment",NHK World TV
-https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+https://liveaneviadev.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/nhkpremium.png" group-title="Entertainment",NHK World Premium
-https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+https://liveaneviadev.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
