@@ -1,5 +1,13 @@
 #EXTM3U 
 url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
+##----addd
+#EXTINF:0  group-title="1",LifeTime
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/Stream(02)/index.m3u8
+
+
+
+
 #Local
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Local",Metro TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
