@@ -1,18 +1,18 @@
 #EXTM3U 
 
 ##----addd
-#EXTINF:0  group-title=“Sport”, SpoTV 1
+#EXTINF:0 ,group-title=“Sport”, SpoTV 1
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv.m3u8
 
-#EXTINF:0  group-title=“Sport”, SpoTV 2
+#EXTINF:0 ,group-title=“Sport”, SpoTV 2
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv2.m3u8
 
 
-#EXTINF:-1  group-title=“Education”, Crime Investigation
+#EXTINF:-1 ,group-title=“Education”, Crime Investigation
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/crimeinvestigation.m3u8
 
-#EXTINF:-1 group-title=“Education”, History
+#EXTINF:-1 ,group-title=“Education”, History
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/history.m3u8
 
-#EXTINF:0 group-title=“Life Style”, Life Time
+#EXTINF:0 ,group-title=“Life Style”, Life Time
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/lifetime.m3u8
